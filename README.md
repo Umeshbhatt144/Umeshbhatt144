@@ -1,23 +1,17 @@
-## Hi, I'm [Umesh Bhatt!](https://pawan.live) 👋
+## Hi, I'm [Umesh Bhatt!](https://codingcompass.com) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamUmesh&label=Views&color=blue&style=plastic" alt="iamUmesh" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/UmeshBh00953237">
   <img align="left" alt="Umesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://www.linkedin.com/in/umesh-bhatt-4449001aa/">
   <img align="left" alt="Umesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Umeshbhatt144">
   <img align="left" alt="?Umesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Umesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Umesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com/vijaydinanath.chauhan.750331">
   <img align="left" alt="Umesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -31,7 +25,7 @@
 - 🤔 I’m looking for help with codingcompass documentation.
 - 💬 Ask me about python, machine learning and deep learning kind of stuffs.
 - 📫 How to reach me: [gmail - @umesbhatt144](https://umeshbhatt144@gmail.com).
-- ⚡ Fun fact: I spend almost 5 hours  everyday.
+- ⚡ Fun fact: I spend almost 5 hours on programming everyday.
 
 [![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/UmeshBh00953237)
 [![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umesh-bhatt-4449001aa/)
@@ -49,17 +43,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/Umeshbhatt144">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamUmesh&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/Umeshbhatt144">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamUmesh&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/iamUmesh/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamUmesh&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/iamUmesh/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamUmesh&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
