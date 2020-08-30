@@ -20,12 +20,13 @@
 
 
 
-- 🔭 I’m currently learning Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
+- 🔭 I’m currently working on something cool 😉.
+- 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for help with codingcompass documentation.
-- 💬 Ask me about python, machine learning and deep learning kind of stuffs.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [gmail - @umesbhatt144](https://www.umeshbhatt144@gmail.com).
 - ⚡ Fun fact: I spend almost 5 hours on programming everyday.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 [![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/UmeshBh00953237)
 [![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umesh-bhatt-4449001aa/)
