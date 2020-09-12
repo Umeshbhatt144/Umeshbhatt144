@@ -23,11 +23,12 @@
 
 
 - 🔭 I’m currently working on something cool 😉.
-- 🌱 I’m currently learning Data Science.
-- 🤔 I’m looking for help with codingcompass documentation.
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing.
+- 🤔 I’m looking to collaborate on various ML, DL and NLP Projects....
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [gmail - @umesbhatt144](https://www.umeshbhatt144@gmail.com).
-- ⚡ Fun fact: I spend almost 5 hours on programming everyday.
+- 😄 Pronouns: HE/HIS
+- ⚡ Fun fact: I EAT SLEEP CODE REPEAT.
 
 [![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/UmeshBh00953237)
 [![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umesh-bhatt-4449001aa/)
