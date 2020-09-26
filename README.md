@@ -1,6 +1,6 @@
-## Hi, I'm [Umesh Bhatt!](https://codingcompass.com) 👋
+## Hi, I'm [Umesh Bhatt!](https://codingcompass.com) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamUmesh&label=Views&color=blue&style=plastic" alt="iamUmesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamUmesh&label=Profile Views&color=blue&style=plastic" alt="iamUmesh" /> </p>
 
 <a href="https://twitter.com/UmeshBh00953237">
   <img align="left" alt="Umesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -38,10 +38,23 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+
+### GitHub Stats
+
+<p align="center">
+  <a href = "https://github.com/Umeshbhatt144">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Umeshbhatt144&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 
 
 <div align="center">
