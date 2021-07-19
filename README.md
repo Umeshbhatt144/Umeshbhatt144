@@ -23,14 +23,14 @@
 
 
 - 🔭 I’m currently working on something cool 😉.
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing.
-- 🤔 I’m looking to collaborate on various ML, DL and NLP Projects....
+- 🌱 I’m currently learning Power BI, SQL Server, Python, Machine Learning.
+- 🤔 I’m looking to collaborate on various Power BI Projects.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [gmail - @umesbhatt144](https://www.umeshbhatt144@gmail.com).
 - 😄 Pronouns: HE/HIS
-- ⚡ Fun fact: I EAT SLEEP CODE REPEAT.
 
-[![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/UmeshBh00953237)
+
+[![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/_Umesh_Bhatt_)
 [![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umesh-bhatt-4449001aa/)
 [![GitHub umesh](https://img.shields.io/github/followers/umesh?label=follow&style=social)](https://github.com/Umeshbhatt144)
 [![website](https://img.shields.io/badge/PortfolioWebsite-codingcompass-2648ff?style=flat-square&logo=google-chrome)](https://cosingcompass.com)
@@ -41,7 +41,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
