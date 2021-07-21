@@ -31,9 +31,8 @@
 
 
 [![Twitter: umesh](https://img.shields.io/twitter/follow/umesh?style=social)](https://twitter.com/_Umesh_Bhatt_)
-[![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umesh-bhatt-4449001aa/)
+[![Linkedin: umesh](https://img.shields.io/badge/-umesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-bhatt-4449001aa/)](https://www.linkedin.com/in/umeshbhatt144/)
 [![GitHub umesh](https://img.shields.io/github/followers/umesh?label=follow&style=social)](https://github.com/Umeshbhatt144)
-[![website](https://img.shields.io/badge/PortfolioWebsite-codingcompass-2648ff?style=flat-square&logo=google-chrome)](https://cosingcompass.com)
 
 
 **Languages and Tools:**  
